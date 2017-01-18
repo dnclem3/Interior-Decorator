@@ -1,0 +1,56 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 48px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+p {
+  font-size: 24px;
+}
+
+img {
+  width: 400px;
+}
+
+.slider {
+  background-image: url("https://www.trabahomes.com/wp-content/uploads/2016/10/Fascinating-Home-Renovation-Ideas-with-Big-Marble-Countertop-inside-Metal-Small-Kitchen-Area.jpg");
+  height: 800px;
+  color: #ffffff;
+  max-width: 1200px;
+  text-align: center;
+}
+
+.slider-text {
+  padding-top: 220px;
+  text-shadow: 2px 2px #444444;
+}
+
+.slider-text h1 {
+  margin-bottom: -30px;
+}
+
+.horizontal-box {
+  width: 800px;
+  display: inline;
+}
+
+.before {
+  float: left;
+}
+
+
+p.before-after-text {
+  text-align: center;
+}
+
+.column {
+  width: 400px;
+  float: left;
+}
